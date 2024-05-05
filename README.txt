@@ -1,2 +1,1 @@
-This is a welbeing app that has many functions and uses many of the devices sensors. It uses many api's like googles map api, gif api and more. 
-This app is there to help people excersise and meditiate and help with there general wellbeing.
+This is a wellbeing app that was made with react-native Expo. This app has many functions and uses many of the device's sensors. It uses many API's like Google Maps API, gif API and more. This app is there to help people exercise and meditate and help with their general well-being.
